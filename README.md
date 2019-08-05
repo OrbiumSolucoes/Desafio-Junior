@@ -38,8 +38,7 @@ Não obrigatório. Faça apenas caso se identifique com o problema ou se achar q
 * Ordenação da lista de visualização de funcionários pelo sálario.
 ************************************************************************
 * Criar um filtro onde será a busca de funcionários por nome.
-************************************************************************
-* Criar testes
+
 
 SOLUÇÃO
 ===================
