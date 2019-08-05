@@ -20,7 +20,7 @@ Foi levantado a necessidade de gravar as seguintes informações:
 
 RESULTADO ESPERADO
 ===================
-* A partir das informações acima crie uma API REST onde será possivel realizar todos as necessidades citadas.
+* A partir das informações acima crie uma API REST onde será possivel realizar todas as necessidades citadas.
 * Crie uma interface que consuma a API para que o time de RH possa utilizar.
 
 OBSERVAÇÕES
